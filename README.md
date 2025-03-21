@@ -3,15 +3,15 @@
 # 🛠Technologies
 - Java 21 & Spring Boot 3 (Backend Development)
 - Spring Security & JWT (Authentication & Authorization)
--PostgreSQL (Database Management)
--JPA Repository (Database Interaction)
--JUnit & Mockito (Unit Testing)
--Maven (Dependency Management & Build Tool)
+- PostgreSQL (Database Management)
+- JPA Repository (Database Interaction)
+- JUnit & Mockito (Unit Testing)
+- Maven (Dependency Management & Build Tool)
 
 # 🔐Security
--The application uses Spring Security with JWT tokens.
--Users are assigned roles with different permission levels.
--Authentication is required for accessing protected endpoints.
+- The application uses Spring Security with JWT tokens.
+- Users are assigned roles with different permission levels.
+- Authentication is required for accessing protected endpoints.
 
 # Instructions
 
